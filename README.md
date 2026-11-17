@@ -8,7 +8,7 @@ Users can upload CSV files, explore business performance through interactive das
 
 🚀 Live Application
 
-Click Here to Open AI Business Insight Generator
+[Click Here to Open AI Business Insight Generator](https://ai-business-insight-mohit.streamlit.app/)
 
 Features
 
@@ -104,7 +104,7 @@ streamlit run app.py
 
 GitHub Repository
 
-AI Business Insight Generator – GitHub
+[AI Business Insight Generator – GitHub](https://github.com/mohit590027-cpu/AI-Business-Insight-Generator)
 
 Author
 
