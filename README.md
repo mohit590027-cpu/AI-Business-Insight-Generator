@@ -2,9 +2,13 @@ AI Business Insight Generator 🚀
 
 Project Overview
 
-AI Business Insight Generator is an AI-powered Streamlit application that analyzes business datasets and generates meaningful business insights using Google Gemini AI.
+AI Business Insight Generator is an AI-powered Streamlit application that analyzes business datasets and generates meaningful business insights using Google Gemini AI and RAG.
 
 Users can upload CSV files, explore business performance through interactive dashboards, and ask questions about their business data.
+
+🚀 Live Application
+
+Click Here to Open AI Business Insight Generator
 
 Features
 
@@ -68,37 +72,39 @@ Segment
 
 Installation and Setup
 
-Clone the repository:
+1. Clone the repository
 
 git clone https://github.com/mohit590027-cpu/AI-Business-Insight-Generator.git
 
-Open the project folder:
+2. Open the project folder
 
 cd AI-Business-Insight-Generator
 
-Create a virtual environment:
+3. Create a virtual environment
 
 py -m venv .venv
 
-Activate the environment:
+4. Activate the environment
 
 .venv\Scripts\activate
 
-Install dependencies:
+5. Install dependencies
 
 pip install -r requirements.txt
 
-Create a .env file and add your Gemini API key:
+6. Configure Gemini API Key
+
+Create a .env file and add:
 
 GEMINI_API_KEY=your_api_key
 
-Run the application:
+7. Run the application
 
 streamlit run app.py
 
 GitHub Repository
 
-AI Business Insight Generator
+AI Business Insight Generator – GitHub
 
 Author
 
